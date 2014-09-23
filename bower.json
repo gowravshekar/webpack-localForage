@@ -1,0 +1,13 @@
+{
+  "name": "webpack-localforage",
+  "version": "0.9.2",
+  "main": [
+    "src/localforage.js"
+  ],
+  "ignore": [
+    "LICENSE"
+  ],
+  "dependencies": {
+    "es6-promise": "~1.0.0"
+  }
+}
