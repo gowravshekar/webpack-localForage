@@ -48,6 +48,7 @@ var config = {
     }
 };
 module.exports = config;
+```
 
 ## Usage
 
@@ -87,4 +88,4 @@ if (!es6PromiseSupport) {
 var callback = function(){
     require('localforage');
 }
-
+```
