@@ -1,6 +1,8 @@
 webpack-localForage
 ===================
 
+Deprecated. Use mozilla/localForage version 1.3.0(or above).
+
 Webpack friendly https://github.com/mozilla/localForage (Offline storage, improved.)
 
 ----------
